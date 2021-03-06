@@ -1,0 +1,108 @@
+/* section-1-logu start */
+
+.cap-icon a{
+	color: black;
+	text-decoration: none;
+}
+
+.cap-icon span {
+	border: 1px solid orange;
+	padding: 4px;
+	border-radius: 10px;
+	color: orange;
+	margin-right: 12px;
+}
+.nav-link.active { 
+	font-size: 20px;
+}
+.nav-link.active:hover {
+	color: red !important;
+}
+.part-2-menu {
+	text-align: right;
+}
+.btn{
+	font-weight: bold;
+	color: rgb(219, 146, 10);
+}
+.part-2-menu ul{}
+.part-2-menu ul li{
+    display: inline-block;
+}
+.part-2-menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    
+}
+.same {
+	color: #fb5d0b;
+	border: 1px solid #fb5d0b;
+	padding: 3px;
+	border-radius: 14px;
+}
+.reset a {
+	color: #fb5d0b;
+	border: 1px solid #fb5d0b;
+	padding: 3px;
+	border-radius: 4px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* slider-section start */
+
+.slider-section{
+    background-image: url(https://www.shethepeople.tv/wp-content/uploads/2020/02/allef-vinicius-oe_03B2Q5A4-unsplash1-e1582100811147.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    color: white;
+    font-weight: bold;
+}
+.slider-section a {
+	border: 1px solid #fff;
+	color: white;
+	font-weight: normal;
+	padding: 6px 11px;
+	margin-top: px;
+	border-radius: 5px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+/* section-part-2 start */
+.section-part-2{
+	
+}
+.section-part-2-containt{
+	
+}
+/* section-part-2 end */
+
+.feature-item {
+	height: 200px;
+	box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+ }
+ .left-img-sec {
+	width: 40%;
+	overflow: hidden;
+	border-radius: 5px 0 0 5px;
+ }
+ .left-test-sec {
+	width: 60%;
+	padding: 25px;
+ }
+ 
+ .left-img-sec img {
+	height: 100%;
+	width: auto !important;
+	max-width: inherit;
+	position: relative;
+	left: -80px;
+ }
+
+ .caounter h2{
+	font-weight: bold;
+ }
